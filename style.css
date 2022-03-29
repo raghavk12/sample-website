@@ -1,0 +1,109 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&display=swap');
+
+body{
+    font-family: 'Montserrat', sans-serif;
+}
+
+:root{
+    --primary--colour:white;
+}
+      
+.headingq{
+    color: blueviolet;
+}
+.containery{
+    margin:auto;
+    padding: 20px;
+}
+
+
+
+.link-primary
+{
+ color :var(--primary--colour);
+ border-radius: 5rem;
+ background-color: blueviolet;
+ border: 5px solid var(--primary--color);
+ padding-top: 5px;
+ padding-bottom: 5px;
+ width: 200px;
+ height: 150px;
+ text-align: center;
+}
+.link-secondary
+{
+ color :var(--primary--colour);
+ border-radius: 5rem;
+ background-color: blueviolet;
+ border: 5px solid var(--primary--color);
+ padding-top: 5px;
+ padding-bottom: 5px;
+ width: 200px;
+ height: 150px;
+ text-align: center;
+}
+
+.footer{
+    text-align: center;
+    padding: 50px;
+}
+
+.link1{
+    padding: 15px ;
+}
+
+.link2{
+    text-align: center;
+    padding: 15px;
+}
+
+.link3{
+    padding: 15px;
+}
+
+.link-active{
+    padding: 20px;
+    border-radius: 25px;
+    background: blueviolet;
+    width: 200px;
+    height: 150px;
+    color: white;
+}
+
+.Contact{
+    
+    padding: 20px;
+    border-radius: 25px;
+    background: blueviolet;
+    width: 200px;
+    height: 150px;
+    color: white;
+}
+
+
+.Stocks{
+
+    padding: 20px;
+    border-radius: 25px;
+    background: blueviolet;
+    width: 200px;
+    height: 150px;
+    color: white;
+}
+
+.nav-pills{
+    text-align: right;
+}
+
+.fa-twitter {
+    background: white;
+    color: blue;
+    font-size: 35px;
+    
+  }
+
+  .fa-linkedin {
+    background: #f3f4f5;
+    color: rgb(14, 29, 235);
+    font-size: 35px;
+  }
